@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>-- Testing Danto Games Web --</h1>
+        <h1>-- Danto Games Web --</h1>
         <a
           className="App-link"
           target="_blank"
